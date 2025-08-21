@@ -1,12 +1,12 @@
 [
   {
-    "name": "Google",
+    "name": "Mastodon by Nico Christmann",
     "url": "https://mastodon.nicochristmann.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.nicochristmann.net.ico",
-    "slug": "google",
+    "slug": "mastodon-by-nico-christmann",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,8 +15,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-08-21": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
