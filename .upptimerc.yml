@@ -3,9 +3,9 @@ repo: MastodonUptimeStatus
 
 sites:
   - name: Mastodon by Nico Christmann
-    url: mastodon.nicochristmann.net
-    port: 80
-    check: "tcp-ping"
+    url: https://mastodon.nicochristmann.net
+    port: 443
+    check: "curl"
     ipv6: true
 
 status-website:
