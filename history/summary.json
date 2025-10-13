@@ -4,7 +4,7 @@
     "url": "https://mastodon.nicochristmann.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.nicochristmann.net.ico",
     "slug": "mastodon-by-nico-christmann",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 885,
     "timeYear": 915,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-10-06": 48,
       "2025-09-29": 21,
       "2025-09-26": 365,
