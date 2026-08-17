@@ -4,11 +4,11 @@
     "url": "https://mastodon.nicochristmann.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.nicochristmann.net.ico",
     "slug": "mastodon-by-nico-christmann",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "97.64%",
     "time": 1211,
     "timeDay": 23275,
@@ -60,7 +60,7 @@
       "2026-07-21": 137,
       "2026-08-14": 43,
       "2026-08-16": 117,
-      "2026-08-17": 14
+      "2026-08-17": 0
     }
   }
 ]
