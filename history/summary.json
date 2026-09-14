@@ -4,17 +4,17 @@
     "url": "https://mastodon.nicochristmann.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.nicochristmann.net.ico",
     "slug": "mastodon-by-nico-christmann",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "82.54%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "97.20%",
-    "time": 1754,
-    "timeDay": 0,
-    "timeWeek": 3313,
-    "timeMonth": 7065,
-    "timeYear": 1809,
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "93.29%",
+    "uptimeYear": "97.17%",
+    "time": 1756,
+    "timeDay": 2042,
+    "timeWeek": 3186,
+    "timeMonth": 6968,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2025-09-17": 35,
       "2025-09-26": 365,
@@ -64,7 +64,8 @@
       "2026-09-01": 259,
       "2026-09-09": 460,
       "2026-09-11": 565,
-      "2026-09-12": 735
+      "2026-09-12": 735,
+      "2026-09-14": 180
     }
   }
 ]
