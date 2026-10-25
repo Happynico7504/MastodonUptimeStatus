@@ -1,7 +1,7 @@
 url: https://mastodon.nicochristmann.net
-status: down
-code: 503
-responseTime: 20410
-lastUpdated: 2026-10-25T19:42:30.546Z
+status: up
+code: 200
+responseTime: 998
+lastUpdated: 2026-10-25T22:03:24.519Z
 startTime: 2025-08-21T15:51:31.602Z
 generator: Upptime <https://github.com/upptime/upptime>
